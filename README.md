@@ -1,2 +1,2 @@
-# carlitos.com
-jaaa
+# carlitos.comProyecto grupal metodologia de software SCRUM
+
